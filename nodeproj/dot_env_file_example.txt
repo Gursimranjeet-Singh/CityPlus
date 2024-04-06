@@ -1,0 +1,5 @@
+MONGODB_URL="mongodb+srv://gursimranjeet:<mypassword>@cluster0.7nxtu67.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+sec_key="mernstack"
+
+
+

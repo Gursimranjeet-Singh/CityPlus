@@ -1,0 +1,8 @@
+# Ignore sensitive environment files
+.env
+
+# Ignore external libraries and dependencies
+node_modules/
+
+# Ignore built production files
+build/
